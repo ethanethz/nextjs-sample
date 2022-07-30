@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import Layout from '../../components/layout.js';
-import Layoutp from '../../components/layout-p.js';
+import Layoutp from '../../components/layout-profile.js';
 import utilStyles from '../../styles/utils.module.css';
 
 export default function FirstPost() {

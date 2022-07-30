@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/posts/3401": "pages/posts/3401.html",
+  "/posts/3402": "pages/posts/3402.html",
+  "/posts/3403": "pages/posts/3403.html",
+  "/posts/3404": "pages/posts/3404.html",
+  "/posts/3405": "pages/posts/3405.html",
+  "/posts/3406": "pages/posts/3406.html",
+  "/posts/first-post": "pages/posts/first-post.html",
+  "/posts/second-post": "pages/posts/second-post.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
